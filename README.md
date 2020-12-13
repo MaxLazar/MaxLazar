@@ -5,7 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@maxlazar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maxlazar)](https://twitter.com/maxlazar)
 
 
-
+<p align="center">
+<a href="https://www.buymeacoffee.com/maxlazar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p>
 <!--
 **MaxLazar/MaxLazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
