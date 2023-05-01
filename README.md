@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-olegabramov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olegabramov)](https://www.linkedin.com/in/olegabramov)
 [![Website Badge](https://img.shields.io/badge/-abramov.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://abramov.dev)](https://abramov.dev)
 [![Website Badge](https://img.shields.io/badge/-eecms.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://eecms.dev)](https://eecms.dev)
-[![Twitter Badge](https://img.shields.io/badge/-@maxlazar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maxlazar)](https://twitter.com/maxlazar)
+
 
 <!--
 <p align="center">
