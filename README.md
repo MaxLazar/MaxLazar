@@ -1,6 +1,4 @@
 ### Hi there 👋
-My another github account - https://github.com/olabramov-clgx
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-olegabramov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olegabramov)](https://www.linkedin.com/in/olegabramov)
 [![Website Badge](https://img.shields.io/badge/-abramov.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://abramov.dev)](https://abramov.dev)
